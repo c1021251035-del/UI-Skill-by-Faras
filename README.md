@@ -89,5 +89,4 @@ Collection (README, structure) — CC0 / public domain.
 
 ---
 
-Maintained by [Faras Daifullah](https://github.com/farasdai)  
-Registry: https://ui-skills.com/skills/systems
+Maintained by [Faras Daifullah](https://github.com/farasdai)
